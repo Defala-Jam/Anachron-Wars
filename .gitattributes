@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+.obsidian
+# Custom attributes for Obsidian files
+.obsidian/* text
+# Custom attributes for Obsidian files
+.obsidian/appearance.json text
+.obsidian/config
+.obsidian/core.json text
+.obsidian/emoji.json text
+.obsidian/graph.json text
+.obsidian/ignore.json text
+.obsidian/metadata.json text
+.obsidian/plugins.json text
+.obsidian/workspace text
+# Custom attributes for Obsidian files
+.obsidian/workspace.json text
