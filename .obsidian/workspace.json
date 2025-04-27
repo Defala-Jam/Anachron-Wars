@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "A Grande Inquisição"
             }
+          },
+          {
+            "id": "bccc59073bec9e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "império/história/A Grande Inquisição.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Grande Inquisição"
+            }
           }
         ]
       }
@@ -167,6 +181,23 @@
   },
   "active": "d51251d820cca5e8",
   "lastOpenFiles": [
+    "império/história/A Visão de Guillaman.md",
+    "império/história/O Recolhimento.md",
+    "império/história/Os Soldados do Véu.md",
+    "império/história/Os Mundos da Máquina de Guerra.md",
+    "império/história/A Grande Inquisição.md",
+    "império/história/PNHs.md",
+    "império/história/servitores.md",
+    "império/personagens/Artória - O General.md",
+    "tags/Império.md",
+    "tags/Lancer's.md",
+    "tags/Planetas.md",
+    "PNH.md",
+    "tags.md",
+    "tags",
+    "servitores.png",
+    "império/i.md",
+    "império.md",
     "Anachron-Wars/servitores.png",
     "Anachron-Wars/império/história/servitores.md",
     "Anachron-Wars/império/história/A Grande Inquisição.md",
@@ -174,10 +205,6 @@
     "Anachron-Wars/império/história",
     "Anachron-Wars/império",
     "Anachron-Wars",
-    "império/história/servitores.md",
-    "império/história/A Grande Inquisição.md",
-    "servitores.png",
-    "império/Sem título.md",
     "império/personagens",
     "império/história",
     "Bem-vindo.md",

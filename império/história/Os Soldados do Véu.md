@@ -1,0 +1,9 @@
+Nas frentes cada vez mais distantes da Grande Inquisição, combatem os **soldados do Véu** — homens e mulheres nascidos nos **Mundos-Quartéis**, treinados desde a infância para guerrear, programados para obedecer. São o braço armado do império, mas raramente recebem o melhor equipamento. A guerra já dura **150 anos**, e poucos vivos ainda lembram do que veio antes — a maioria só conhece o aço, o vácuo, e a marcha.
+
+A expansão constante esticou as fronteiras imperiais até o limite logístico. Pelotões avançados operam com recursos mínimos, dependendo da manutenção local, de saque improvisado ou da presença constante de **servitores operacionais**. Com a escassez de mão de obra orgânica, é comum cada unidade de combate ser composta majoritariamente por servitores — **entidades paracausais encapsuladas em corpos reciclados** — acompanhadas por um número reduzido de soldados humanos que servem como supervisores, líderes táticos ou âncoras mentais para a infraestrutura sensível.
+
+Embora os **servitores** possam ser usados em **mechas doutrinários**, isso não é prática rotineira: a vinculação paracausal exige um **núcleo de carne viva**, um "elo físico", que geralmente só é encontrado em soldados qualificados ou voluntários forçados. Sem isso, os mechas tornam-se instáveis, suscetíveis a colapsos operacionais ou perda total da unidade.
+
+Mesmo assim, as colunas imperiais continuam avançando — **não com glória, mas com inevitabilidade**.  Em muitos mundos, os soldados já não sabem por que lutam. Para eles, a vitória não é um evento. É apenas continuar funcionando mais um ciclo.
+
+[[Império]]
