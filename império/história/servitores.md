@@ -1,0 +1,5 @@
+![[servitores.png]]
+
+Entidades paracausais semi-incorpóreas, derivadas de PNHs de baixa complexidade, encapsuladas em invólucros biomecânicos. Servitors são utilizados como força de trabalho automatizada e assistencial sob supervisão direta da União. Herdando a função histórica das IAs lobotomizadas e das mentes-máquina, os servitors ocupam funções repetitivas, técnicas ou fisicamente intensas — desde manutenção de infraestrutura orbital até suporte de campo em operações militares.
+
+Cada unidade possui uma presença PNH restrita e funcional, sem autonomia plena, programada para obediência. Apesar de sua forma ainda vagamente humanoide, são considerados equipamento — ferramentas sencientes, porém sem direitos. Seu uso massivo levanta debates éticos recorrentes, porém seu uso se tornou uma infraestrutura essencial de baixo custo em um ambiente onde a guerra agora é constante e inevitável.
