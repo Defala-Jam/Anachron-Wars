@@ -11,14 +11,12 @@
             "id": "d7458c97af4fdeed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "império/história/servitor.md",
-                "mode": "source",
-                "source": false
+                "file": "zzimagens/Pasted image 20250429041114.png"
               },
-              "icon": "lucide-file",
-              "title": "servitor"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250429041114"
             }
           },
           {
@@ -208,10 +206,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d7458c97af4fdeed",
+  "active": "0000cb6021c7bf1a",
   "lastOpenFiles": [
-    "Pasted image 20250429041119.png",
-    "Pasted image 20250429041114.png",
+    "universo/PNHs.md",
+    "império/história/servitor.md",
+    "zzimagens/Pasted image 20250429041119.png",
+    "zzimagens/Pasted image 20250429041114.png",
     "império/história/mechanicus.md",
     "Resistencia/Camuflagem Paracausal.md",
     "Resistencia/Coligação dos Livres.md",
@@ -222,7 +222,6 @@
     "império/história/Impressora de Singularidade Tipo-RA.md",
     "império/história/Os Mundos da Máquina de Guerra.md",
     "império/história/Os Soldados do Véu.md",
-    "império/história/servitor.md",
     "universo/O Véu do Caos.md",
     "tags/resistencia.md",
     "Resistencia",
@@ -230,7 +229,6 @@
     "2025-04-29.md",
     "império/personagens/Artória - O General.md",
     "império/história/O Recolhimento.md",
-    "universo/PNHs.md",
     "tags/Planetas.md",
     "universo",
     "Sem título.md",
