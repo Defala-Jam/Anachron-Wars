@@ -1,0 +1,264 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1745905140194.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1745905140194,
+  "responses": {
+    "gemini-1745905155382": {
+      "id": "gemini-1745905155382",
+      "object": "chat.completion",
+      "created": 1745905158011,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Roboute Guilliman é uma figura central no universo de Warhammer 40.000. Ele é um Primarca, um dos vinte filhos geneticamente modificados do Imperador da Humanidade, criados para serem líderes e guerreiros supremos durante a Grande Cruzada.\n\nAqui estão alguns pontos chave sobre Guilliman:\n\n*   **Primarca da Legião Ultramarines:** Guilliman era o Primarca da Legião Ultramarines, conhecida por sua disciplina, organização e excelência tática.\n\n*   **Administrador e Estrategista:** Além de ser um guerreiro formidável, Guilliman era um administrador brilhante e um estrategista mestre. Ele é conhecido por ter escrito o Codex Astartes, um tratado abrangente sobre estratégia militar, táticas e organização para os Space Marines.\n\n*   **Regente Imperial:** Após ser gravemente ferido durante a Heresia de Horus e colocado em estase por milênios, Guilliman foi ressuscitado no 41º milênio. Ao retornar, ele assumiu o título de Regente Imperial, liderando o Imperium da Humanidade em um momento de grande crise.\n\n*   **Reorganização do Imperium:** Guilliman tem se dedicado a reformar e fortalecer o Imperium, que se tornou burocrático, corrupto e ineficiente ao longo dos milênios. Ele implementou reformas administrativas, reorganizou as forças militares e lançou novas campanhas para combater as ameaças que assolam a humanidade.\n\n*   **Figura Trágica:** Guilliman é frequentemente retratado como uma figura trágica, sobrecarregada pelo peso da responsabilidade e desiludido com o estado do Imperium que ele jurou proteger.\n\nEm resumo, Roboute Guilliman é um dos personagens mais importantes e influentes de Warhammer 40.000, um líder militar e administrador brilhante que retornou para guiar a humanidade em sua hora mais sombria."
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6,
+        "completion_tokens": 417,
+        "total_tokens": 423
+      }
+    },
+    "gemini-1745905196429": {
+      "id": "gemini-1745905196429",
+      "object": "chat.completion",
+      "created": 1745905196429,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "",
+            "tool_calls": [
+              {
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"Roboute Guilliman, o Primarca da Legião Ultramarines, é conhecido por sua habilidade administrativa e estratégica, além de suas proezas em combate. Ele escreveu o Codex Astartes e, após seu retorno, tornou-se Regente Imperial.\",\"2\":\"Guilliman foi gravemente ferido por Fulgrim durante a Heresia de Horus e colocado em estase. Sua ressurreição no 41º milênio marcou um ponto de virada para o Imperium.\",\"3\":\"Como Regente Imperial, Guilliman tem se dedicado a reformar o Imperium, combatendo a burocracia e a corrupção, e liderando campanhas militares contra as ameaças que assolam a humanidade.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 482,
+        "completion_tokens": 153,
+        "total_tokens": 635
+      }
+    }
+  },
+  "messages": {
+    "user-1-1745905153686-1": 1,
+    "assistant-2-1745905155383-1": 2,
+    "user-3-1745905193424-1": 3,
+    "assistant-4-1745905196429-1": 4,
+    "tool-5-1": 5
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1745905140194",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905140194",
+      "content": [
+        {
+          "type": "text",
+          "text": "quem foi guillaman?"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1745905153686-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905153686-1",
+      "key": "Untitled 1745905140194#user-1-1745905153686-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905140194",
+      "content": "Roboute Guilliman é uma figura central no universo de Warhammer 40.000. Ele é um Primarca, um dos vinte filhos geneticamente modificados do Imperador da Humanidade, criados para serem líderes e guerreiros supremos durante a Grande Cruzada.\n\nAqui estão alguns pontos chave sobre Guilliman:\n\n*   **Primarca da Legião Ultramarines:** Guilliman era o Primarca da Legião Ultramarines, conhecida por sua disciplina, organização e excelência tática.\n\n*   **Administrador e Estrategista:** Além de ser um guerreiro formidável, Guilliman era um administrador brilhante e um estrategista mestre. Ele é conhecido por ter escrito o Codex Astartes, um tratado abrangente sobre estratégia militar, táticas e organização para os Space Marines.\n\n*   **Regente Imperial:** Após ser gravemente ferido durante a Heresia de Horus e colocado em estase por milênios, Guilliman foi ressuscitado no 41º milênio. Ao retornar, ele assumiu o título de Regente Imperial, liderando o Imperium da Humanidade em um momento de grande crise.\n\n*   **Reorganização do Imperium:** Guilliman tem se dedicado a reformar e fortalecer o Imperium, que se tornou burocrático, corrupto e ineficiente ao longo dos milênios. Ele implementou reformas administrativas, reorganizou as forças militares e lançou novas campanhas para combater as ameaças que assolam a humanidade.\n\n*   **Figura Trágica:** Guilliman é frequentemente retratado como uma figura trágica, sobrecarregada pelo peso da responsabilidade e desiludido com o estado do Imperium que ele jurou proteger.\n\nEm resumo, Roboute Guilliman é um dos personagens mais importantes e influentes de Warhammer 40.000, um líder militar e administrador brilhante que retornou para guiar a humanidade em sua hora mais sombria.",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1745905155383-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1745905155382",
+      "branch_i": "1745905155383-1",
+      "key": "Untitled 1745905140194#assistant-2-1745905155383-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905140194",
+      "content": [
+        {
+          "type": "text",
+          "text": "eu gostaria de saber quem foi guillaman a decorrer de minhas anotações"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1745905193424-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905193424-1",
+      "key": "Untitled 1745905140194#user-3-1745905193424-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905140194",
+      "content": "",
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"Roboute Guilliman, o Primarca da Legião Ultramarines, é conhecido por sua habilidade administrativa e estratégica, além de suas proezas em combate. Ele escreveu o Codex Astartes e, após seu retorno, tornou-se Regente Imperial.\",\"2\":\"Guilliman foi gravemente ferido por Fulgrim durante a Heresia de Horus e colocado em estase. Sua ressurreição no 41º milênio marcou um ponto de virada para o Imperium.\",\"3\":\"Como Regente Imperial, Guilliman tem se dedicado a reformar o Imperium, combatendo a burocracia e a corrupção, e liderando campanhas militares contra as ameaças que assolam a humanidade.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1745905196429-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1745905196429",
+      "branch_i": "1745905196429-1",
+      "key": "Untitled 1745905140194#assistant-4-1745905196429-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905140194",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "msg_i": 5,
+      "id": "tool-5-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**A Fundação do Império e [[A Grande Inquisição]]**",
+          "score": 0.811201491224785
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**A Fundação do Império e [[A Grande Inquisição]]**#{1}",
+          "score": 0.8111240653882051
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Estado da Galáxia sob Guillaman**",
+          "score": 0.810011715954788
+        },
+        {
+          "key": "império/história/A Grande Inquisição.md###**União pela força**#{1}",
+          "score": 0.8064014934219105
+        },
+        {
+          "key": "império/história/A Visão de Guillaman.md#",
+          "score": 0.8036785600704431
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Estado da Galáxia sob Guillaman**#{4}",
+          "score": 0.8006418099380435
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Estado da Galáxia sob Guillaman**#{6}",
+          "score": 0.7995133482488724
+        },
+        {
+          "key": "império/história/A Visão de Guillaman.md####**A Visão**",
+          "score": 0.7955636654286675
+        },
+        {
+          "key": "império/história/A Grande Inquisição.md###**O Véu de Aço e a Profecia do Silêncio**",
+          "score": 0.792295116201328
+        },
+        {
+          "key": "império/história/A Grande Inquisição.md###**O Véu de Aço e a Profecia do Silêncio**#{1}",
+          "score": 0.791101988623761
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "key": "Untitled 1745905140194#tool-5-1"
+    }
+  ]
+}

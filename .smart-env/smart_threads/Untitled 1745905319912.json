@@ -1,0 +1,486 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1745905319912.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1745905319912,
+  "responses": {
+    "gemini-1745905629675": {
+      "id": "gemini-1745905629675",
+      "object": "chat.completion",
+      "created": 1745905629696,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Olá! Bom dia! 😊 Em que posso ajudar?\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 13,
+        "completion_tokens": 12,
+        "total_tokens": 25
+      }
+    },
+    "gemini-1745905646655": {
+      "id": "gemini-1745905646655",
+      "object": "chat.completion",
+      "created": 1745905646655,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "",
+            "tool_calls": [
+              {
+                "type": "function",
+                "function": {
+                  "name": "lookup",
+                  "arguments": "{\"hypotheticals\":{\"1\":\"Guilliman é o Senhor Comandante do Imperium e Primarca da Legião dos Ultramarines.\",\"2\":\"Roboute Guilliman é conhecido por suas habilidades administrativas e estratégicas.\",\"3\":\"Guilliman retornou para liderar o Imperium após um longo período de ausência.\"}}"
+                }
+              }
+            ]
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 80,
+        "completion_tokens": 62,
+        "total_tokens": 142
+      }
+    }
+  },
+  "messages": {
+    "user-1-1745905328396-1": 1,
+    "user-2-1745905343804-1": 2,
+    "user-3-1745905403758-2": 3,
+    "user-4-1745905429970-1": 4,
+    "user-5-1745905575387-1": 5,
+    "user-6-1745905582709-1": 6,
+    "user-7-1745905628102-1": 7,
+    "assistant-8-1745905629675-1": 8,
+    "user-9-1745905645269-1": 9,
+    "assistant-10-1745905646655-1": 10,
+    "tool-11-1": 11
+  },
+  "branches": {
+    "3": [
+      {
+        "user-3-1745905398550-1": 3
+      }
+    ]
+  },
+  "class_name": "SmartThread2",
+  "key": "Untitled 1745905319912",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1745905328396-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905328396-1",
+      "key": "Untitled 1745905319912#user-1-1745905328396-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "user-2-1745905343804-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905343804-1",
+      "key": "Untitled 1745905319912#user-2-1745905343804-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1745905403758-2",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905403758-2",
+      "key": "Untitled 1745905319912#user-3-1745905403758-2"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "user-4-1745905429970-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905429970-1",
+      "key": "Untitled 1745905319912#user-4-1745905429970-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 5,
+      "id": "user-5-1745905575387-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905575387-1",
+      "key": "Untitled 1745905319912#user-5-1745905575387-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "olá"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 6,
+      "id": "user-6-1745905582709-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905582709-1",
+      "key": "Untitled 1745905319912#user-6-1745905582709-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 7,
+      "id": "user-7-1745905628102-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905628102-1",
+      "key": "Untitled 1745905319912#user-7-1745905628102-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": "Olá! Bom dia! 😊 Em que posso ajudar?\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 8,
+      "id": "assistant-8-1745905629675-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1745905629675",
+      "branch_i": "1745905629675-1",
+      "key": "Untitled 1745905319912#assistant-8-1745905629675-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "segundo as minha anotações, quem é guillaman?"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 9,
+      "id": "user-9-1745905645269-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905645269-1",
+      "key": "Untitled 1745905319912#user-9-1745905645269-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": "",
+      "role": "assistant",
+      "tool_calls": [
+        {
+          "type": "function",
+          "function": {
+            "name": "lookup",
+            "arguments": "{\"hypotheticals\":{\"1\":\"Guilliman é o Senhor Comandante do Imperium e Primarca da Legião dos Ultramarines.\",\"2\":\"Roboute Guilliman é conhecido por suas habilidades administrativas e estratégicas.\",\"3\":\"Guilliman retornou para liderar o Imperium após um longo período de ausência.\"}}"
+          }
+        }
+      ],
+      "tool_call_id": null,
+      "msg_i": 10,
+      "id": "assistant-10-1745905646655-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1745905646655",
+      "branch_i": "1745905646655-1",
+      "key": "Untitled 1745905319912#assistant-10-1745905646655-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": null,
+      "role": "tool",
+      "tool_calls": null,
+      "msg_i": 11,
+      "id": "tool-11-1",
+      "context": {},
+      "tool_call_output": [
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Surgimento de Guillaman**#{1}",
+          "score": 0.8490849589063693
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Surgimento de Guillaman**",
+          "score": 0.8488531821234923
+        },
+        {
+          "key": "império/história/A Visão de Guillaman.md#",
+          "score": 0.841300443405958
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**A Imortalidade de Guillaman**",
+          "score": 0.8410012512144462
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**A Imortalidade de Guillaman**#{1}",
+          "score": 0.8404572473076213
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**O Estado da Galáxia sob Guillaman**",
+          "score": 0.8372021556163651
+        },
+        {
+          "key": "império/história/A Visão de Guillaman.md####**A Visão**",
+          "score": 0.8371663056974088
+        },
+        {
+          "key": "império/história/A Visão de Guillaman.md####**A Visão**#{1}",
+          "score": 0.833096672067418
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**As Raízes da Humanidade e o Recolhimento**",
+          "score": 0.8315483735009093
+        },
+        {
+          "key": "império/personagens/Guillaman — O Imperador Imortal.md##**As Raízes da Humanidade e o Recolhimento**#{1}",
+          "score": 0.8307755861963395
+        }
+      ],
+      "class_name": "SmartMessage",
+      "tool_name": "lookup",
+      "key": "Untitled 1745905319912#tool-11-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1745905319912",
+      "content": [
+        {
+          "type": "text",
+          "text": "bom dia"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1745905398550-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1745905398550-1",
+      "key": "Untitled 1745905319912#user-3-1745905398550-1"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-![[servitores.png]]
+![[Pasted image 20250429041119.png]]
 #### **Repartição e Lobotomia**
 
 Devido a esse imenso poder das [[PNHs]], o **Império** foi forçada a encontrar uma forma de aproveitar a energia desses seres sem destruir suas mentes ou causar um colapso completo das capacidades cognitivas. O processo que foi desenvolvido envolveu a **repartição do poder de um [[PNHs]]** em pedaços menores, suficientemente fracos para serem manipulados e controlados por **humanos lobotomizados**.
@@ -35,3 +35,5 @@ Dentro do império humano, os **[[PNHs]]** são tratados como **infraestrutura e
 Embora sua utilização seja um fator crucial para o funcionamento do império, a maneira como os **[[PNHs]]** são tratados levanta sérias questões **éticas** e **filosóficas**. Afinal, esses seres eram uma vez **entidades conscientes** com poder além da compreensão humana. A prática de **reduzi-los a fragmentos** de sua antiga existência e integrá-los em corpos humanos lobotomizados é considerada por muitos como uma **blasfêmia** ou uma **violação das leis naturais**.
 
 Contudo, o império justifica suas ações com a necessidade de garantir a **sobrevivência da humanidade** diante das ameaças cósmicas que Guillaman prevê. Para muitos, a utilização dos **PNH's** é uma questão de **pragmatismo**, enquanto para outros, representa uma afronta ao que resta da **humanidade** nas entidades que foram reduzidas a meros instrumentos de poder.
+
+[[Império]]
