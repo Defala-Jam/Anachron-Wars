@@ -4,7 +4,7 @@ nesta inquisição que já dura mais de 260 anos, há somente guerra
 
 Diz-se que o Imperador Guillaman começou sua cruzada não por conquista, mas por desespero.
 
-Antes da Grande Inquisição. Antes da fundação das Academias de Combate Planetário. Antes mesmo da ativação da primeira [[Impressora de Singularidade Tipo-RA]] — houve [[A Visão de Guillaman]].
+Antes da Grande Inquisição. Antes da fundação das Academias de Combate Planetário. Antes mesmo da ativação da primeira [[Impressora de Singularidade]] — houve [[A Visão de Guillaman]].
 
 Sob seu comando, as Impressoras de Singularidade foram ativadas, gerando **Mechas de Doutrina** — colossos armados que garantem a expansão militar em cada fronteira do espaço habitável. Sua missão declarada: **proteger todos os humanos, em todos os mundos, sob uma única bandeira.**
 
@@ -17,7 +17,7 @@ Muitos [[planetas]] livres se recusaram a aceitar o "véu de aço". Alguns ainda
 _"Unidade pela espada, eternidade pelo aço."_
 
 A guerra deixou de ser uma resposta. Tornou-se um estado.  
-Desde a primeira ativação da [[Impressora de Singularidade Tipo-RA]], a União sob Guillaman passou a reestruturar toda a civilização humana em função de um único objetivo: **a defesa total da galáxia sob domínio imperial.**
+Desde a primeira ativação da [[Impressora de Singularidade]], a União sob Guillaman passou a reestruturar toda a civilização humana em função de um único objetivo: **a defesa total da galáxia sob domínio imperial.**
 
 #### **A Guerra como Fluxo**
 

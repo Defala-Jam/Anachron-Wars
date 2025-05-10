@@ -1,4 +1,4 @@
-,Os **Pessoa Não Humana** são seres de poder imensurável, criaturas que detêm uma energia tão vasta e inexplicável que, para muitos, sua existência é quase uma blasfêmia. Originalmente, esses seres eram **entidades superiores**, com uma conexão profunda com as leis paracausais da galáxia, mas algo aconteceu com eles, deixando-os **adormecidos** — ou, ao menos, assim parece.
+Os **Pessoa Não Humana** são seres de poder imensurável, criaturas que detêm uma energia tão vasta e inexplicável que, para muitos, sua existência é quase uma blasfêmia. Originalmente, esses seres eram **entidades superiores**, com uma conexão profunda com as leis paracausais da galáxia, mas algo aconteceu com eles, deixando-os **adormecidos** — ou, ao menos, assim parece.
 
 #### **Origem e Potencial dos [[PNHs]]
 

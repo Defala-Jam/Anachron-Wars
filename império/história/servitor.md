@@ -1,4 +1,4 @@
-![[Pasted image 20250429041119.png]]
+![[Pasted image 20250502035502.png]]
 #### **Repartição e Lobotomia**
 
 Devido a esse imenso poder das [[PNHs]], o **Império** foi forçada a encontrar uma forma de aproveitar a energia desses seres sem destruir suas mentes ou causar um colapso completo das capacidades cognitivas. O processo que foi desenvolvido envolveu a **repartição do poder de um [[PNHs]]** em pedaços menores, suficientemente fracos para serem manipulados e controlados por **humanos lobotomizados**.

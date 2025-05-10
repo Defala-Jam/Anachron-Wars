@@ -1,4 +1,3 @@
-Sinto muito, mas não encontrei informações sobre "Guilliman" nas suas anotações. Você pode me fornecer mais contexto ou detalhes para que eu possa te ajudar melhor?
 ![[Pasted image 20250427204814.png]]
 
 ## **As Raízes da Humanidade e o Recolhimento**

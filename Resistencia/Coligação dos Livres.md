@@ -6,7 +6,7 @@ A **Coligação dos Livres** nasceu do desespero de mundos que se recusaram a pe
 
 Foi nesse cenário que pequenos focos de resistência começaram a surgir. Inicialmente isolados, mundos que se negavam a se render perceberam que sozinhos seriam esmagados pelo peso do Véu de Aço. O que começou como rebeliões dispersas logo se tornou uma rede de alianças clandestinas, unindo cientistas exilados, generais renegados e populações inteiras dispostas a lutar pela própria existência. A ideia de liberdade evoluiu para algo maior: **um pacto de sobrevivência**.
 
-Assim, longe dos olhos do [[Império]], **a Coligação dos Livres** se formou — uma coalizão que jurou tornar cada avanço imperial um inferno.
+Assim, longe dos olhos do [[Império]] durante [[A Grande Inquisição]], **a Coligação dos Livres** se formou — uma coalizão que jurou tornar cada avanço imperial um inferno.
 
 ---
 
